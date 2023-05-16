@@ -1,35 +1,35 @@
-import {
+import (
   "fmt"
   "net/http"
   //"comment"
   "flag"
-}
+)
 
-/* import {
+/* import (
   "testing"
   "errors"
   "strconv"  
-}
+)
 */
 
 /*
-import {
+import (
   "io"
   "regexp"
   "time"
-}
+)
 */
 
 
-import { /*
+import ( /*
   "nonsense"
   "foobar"  
-}
+)
 */
   
-import { 
+import ( 
 /*
   "yessense"
   "barfoo"  
-}
+)
 */  
