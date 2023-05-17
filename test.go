@@ -26,6 +26,8 @@ import (
 */
 
 /*
+
+/* some more comments */
 import (
   "io"
   "regexp"
